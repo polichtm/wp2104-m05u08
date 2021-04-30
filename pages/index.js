@@ -29,22 +29,22 @@ export default function Home({ CosmoIoTData }) {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
-        <title>Next.JS with Azure Cosmos DB IoT telemetry data</title>
-        <meta name="title" content="Next.JS with Azure Cosmos DB IoT telemetry data" />
+        <title>Next.js with Azure Cosmos DB IoT telemetry data</title>
+        <meta name="title" content="Next.js with Azure Cosmos DB IoT telemetry data" />
         <meta
           name="description"
-          content="Next.JS with Azure Cosmos DB IoT telemetry data"
+          content="Next.js with Azure Cosmos DB IoT telemetry data"
         />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Next.JS with Azure Cosmos DB IoT telemetry data" />
+        <meta property="og:title" content="Next.js with Azure Cosmos DB IoT telemetry data" />
         <meta
           property="og:description"
-          content="Next.JS with Azure Cosmos DB IoT telemetry data"
+          content="Next.js with Azure Cosmos DB IoT telemetry data"
         />
       </Head>
       <div className="w-full text-center bg-blue-800 flex flex-wrap items-center">
         <div className="text-3xl w-1/2 text-white mx-2 md:mx-auto py-10">
-          NextJS - CosmosDB IoT telemetry data
+          Next.js - Cosmos DB IoT telemetry data
         </div>
       </div>
       <div className="bg-gray-200 py-10">
